@@ -1,0 +1,10 @@
+﻿  main.cpp
+  snack.cpp
+  snackcslot.cpp
+  vendingmachine.cpp
+  Создание кода
+  223 of 227 functions (98.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  VendingMachine.vcxproj -> C:\developer_c++\vs_hw_m5_snack_v2\VendingMachine\x64\Release\VendingMachine.exe
